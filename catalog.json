@@ -1,0 +1,28 @@
+{
+    "threads": [
+        {
+            "id": 1,
+            "parent": 0,
+            "timestamp": 1658364533,
+            "bumped": 1658364533,
+            "name": "Anonymous",
+            "tripcode": "",
+            "subject": "",
+            "message": "<br>",
+            "file": "1658364533001.gif",
+            "file_hex": "d3b979e375fa03a239559cf57768be19",
+            "file_original": "nyancat.gif",
+            "file_size": 112892,
+            "file_size_formated": "110.25KB",
+            "image_width": 1200,
+            "image_height": 800,
+            "thumb": "1658364533001s.gif",
+            "thumb_width": 250,
+            "thumb_height": 167,
+            "stickied": 0,
+            "locked": 0,
+            "replies": 0,
+            "images": 1
+        }
+    ]
+}
