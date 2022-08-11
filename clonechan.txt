@@ -1,3 +1,5 @@
 Checking to see if I successfully cloned this into my new workstation. 
 
 test to see if switch to ssh worked.
+
+cool, it did, testing to see if I need to enter in my user stuff all the time
