@@ -1,1 +1,3 @@
 Checking to see if I successfully cloned this into my new workstation. 
+
+test to see if switch to ssh worked.
